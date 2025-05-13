@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	background-color: #f8f9fa; /* soft white-gray */
+	color: #222222;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	font-size: 48px;
+	font-weight: bold;
+	font-family: Helvetica, Arial, sans-serif;
+}
